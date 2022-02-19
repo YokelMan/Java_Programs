@@ -40,7 +40,7 @@ public class Casino {
                             gamble();
                             break;
                         case 3:
-                            blackjack(); 
+                            blackjack(); // WILL GIVE ERRORS - DO NOT USE THIS OPTIONS FOR NOW
                             break;
                         case 4:
                             checkBalance();
